@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kurniawan/Workspace/exercism/cpp/hello-world/hello_world.cpp
+string
+-
+
+/home/kurniawan/Workspace/exercism/cpp/hello-world/hello_world.h
+string
+-
+
+/home/kurniawan/Workspace/exercism/cpp/hello-world/hello_world_test.cpp
+hello_world.h
+/home/kurniawan/Workspace/exercism/cpp/hello-world/hello_world.h
+boost/test/unit_test.hpp
+-
+

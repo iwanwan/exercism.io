@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kurniawan/Workspace/exercism/cpp/gigasecond/gigasecond.cpp
+gigasecond.h
+/home/kurniawan/Workspace/exercism/cpp/gigasecond/gigasecond.h
+boost/date_time/posix_time/posix_time.hpp
+/home/kurniawan/Workspace/exercism/cpp/gigasecond/boost/date_time/posix_time/posix_time.hpp
+
+/home/kurniawan/Workspace/exercism/cpp/gigasecond/gigasecond.h
+boost/date_time/posix_time/posix_time.hpp
+/home/kurniawan/Workspace/exercism/cpp/gigasecond/boost/date_time/posix_time/posix_time.hpp
+
+/home/kurniawan/Workspace/exercism/cpp/gigasecond/gigasecond_test.cpp
+gigasecond.h
+/home/kurniawan/Workspace/exercism/cpp/gigasecond/gigasecond.h
+boost/test/unit_test.hpp
+-
+boost/date_time/posix_time/posix_time.hpp
+/home/kurniawan/Workspace/exercism/cpp/gigasecond/boost/date_time/posix_time/posix_time.hpp
+

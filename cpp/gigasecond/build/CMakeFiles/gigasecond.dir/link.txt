@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gigasecond.dir/gigasecond_test.cpp.o CMakeFiles/gigasecond.dir/gigasecond.cpp.o  -o gigasecond /usr/lib/x86_64-linux-gnu/libboost_unit_test_framework.a /usr/lib/x86_64-linux-gnu/libboost_date_time.a 
